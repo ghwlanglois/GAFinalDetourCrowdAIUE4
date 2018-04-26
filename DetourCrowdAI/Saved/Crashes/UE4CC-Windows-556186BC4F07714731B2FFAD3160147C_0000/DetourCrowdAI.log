@@ -1,0 +1,544 @@
+﻿Log file open, 04/26/18 15:42:12
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DetourCrowdAI
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(994023940) SRandInit(994023940).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190920
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.26-19.42.14:006][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.26-19.42.14:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.26-19.42.14:030][  0]LogInit: Computer: 96XJ1R1
+[2018.04.26-19.42.14:030][  0]LogInit: User: User
+[2018.04.26-19.42.14:030][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.26-19.42.14:030][  0]LogInit: High frequency timer resolution =3.312784 MHz
+[2018.04.26-19.42.14:030][  0]LogMemory: Memory total: Physical=24.0GB (24GB approx)
+[2018.04.26-19.42.14:030][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.26-19.42.14:030][  0]LogMemory: Process Physical Memory: 272.82 MB used, 272.82 MB peak
+[2018.04.26-19.42.14:030][  0]LogMemory: Process Virtual Memory: 271.88 MB used, 271.88 MB peak
+[2018.04.26-19.42.14:030][  0]LogMemory: Physical Memory: 4417.77 MB used,  20115.24 MB free, 24533.01 MB total
+[2018.04.26-19.42.14:030][  0]LogMemory: Virtual Memory: 684.30 MB used,  20115.24 MB free, 134217728.00 MB total
+[2018.04.26-19.42.14:236][  0]LogInit: Using OS detected language (en-US).
+[2018.04.26-19.42.14:236][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.26-19.42.14:241][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.26-19.42.14:674][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.26-19.42.14:957][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.26-19.42.15:015][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.04.26-19.42.15:015][  0]LogD3D11RHI:       1977/0/12266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.26-19.42.15:017][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.26-19.42.15:017][  0]LogD3D11RHI:       0/0/12266 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.26-19.42.15:017][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.26-19.42.15:023][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.26-19.42.15:023][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.26-19.42.15:023][  0]LogWindows: EnumDisplayDevices:
+[2018.04.26-19.42.15:023][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2018.04.26-19.42.15:023][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.04.26-19.42.15:023][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.04.26-19.42.15:023][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2018.04.26-19.42.15:023][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.26-19.42.15:024][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.04.26-19.42.15:024][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.26-19.42.15:024][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.26-19.42.15:024][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2018.04.26-19.42.15:063][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.26-19.42.15:158][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.26-19.42.15:205][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Intermediate/Shaders/WorkingDirectory/14640/).
+[2018.04.26-19.42.15:205][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/B2209D734341A319F96420A39D840116/'.
+[2018.04.26-19.42.15:205][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.26-19.42.16:279][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.26-19.42.16:345][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.26-19.42.16:416][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.26-19.42.16:483][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.26-19.42.16:553][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.26-19.42.16:633][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.26-19.42.16:736][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.26-19.42.16:813][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.26-19.42.16:875][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.26-19.42.16:941][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.26-19.42.17:007][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.26-19.42.17:072][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.26-19.42.17:138][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.26-19.42.17:206][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.26-19.42.17:342][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.26-19.42.17:342][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.26-19.42.17:408][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.26-19.42.17:459][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.26-19.42.17:570][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.26-19.42.17:604][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.26-19.42.17:668][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.26-19.42.17:732][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.26-19.42.17:797][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.26-19.42.17:862][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.26-19.42.17:862][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.26-19.42.18:473][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.26-19.42.18:717][  0]LogDerivedDataCache: Loaded boot cache 0.24s 314MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.26-19.42.18:717][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.26-19.42.18:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.26-19.42.18:718][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.26-19.42.18:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.26-19.42.18:718][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.26-19.42.18:735][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.26-19.42.18:748][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.26-19.42.18:760][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.26-19.42.18:760][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.26-19.42.18:761][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.26-19.42.18:761][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.26-19.42.19:207][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.26-19.42.19:635][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.26-19.42.19:690][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.26-19.42.19:690][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.26-19.42.19:690][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.26-19.42.19:690][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.26-19.42.19:690][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.26-19.42.19:723][  0]LogNetVersion: DetourCrowdAI , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3644492564)
+[2018.04.26-19.42.19:918][  0]LogAssetRegistry: FAssetRegistry took 0.0275 seconds to start up
+[2018.04.26-19.42.20:467][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.052797 seconds
+[2018.04.26-19.42.20:472][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.26-19.42.20:472][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.26-19.42.20:472][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.26-19.42.20:543][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.26-19.42.23:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.26-19.42.23:851][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.26-19.42.24:803][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.26-19.42.25:342][  0]SourceControl: Source control is disabled
+[2018.04.26-19.42.25:342][  0]SourceControl: Source control is disabled
+[2018.04.26-19.42.25:412][  0]SourceControl: Source control is disabled
+[2018.04.26-19.42.25:486][  0]SourceControl: Source control is disabled
+[2018.04.26-19.42.26:588][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.26-19.42.26:876][  0]LogOcInput: OculusInput pre-init called
+[2018.04.26-19.42.27:268][  0]LogEngine: Initializing Engine...
+[2018.04.26-19.42.27:270][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.26-19.42.27:509][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.26-19.42.27:510][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.26-19.42.27:683][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.26-19.42.27:692][  0]LogInit: XAudio2 using 'E480i-C2 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.26-19.42.27:715][  0]LogInit: FAudioDevice initialized.
+[2018.04.26-19.42.27:827][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/User/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.26-19.42.27:845][  0]LogInit: Texture streaming: Enabled
+[2018.04.26-19.42.27:979][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.26-19.42.28:159][  0]LogInit: Transaction tracking system initialized
+[2018.04.26-19.42.28:901][  0]BlueprintLog: New page: Editor Load
+[2018.04.26-19.42.30:537][  0]LocalizationService: Localization service is disabled
+[2018.04.26-19.42.31:950][  0]LogConsoleResponse: Display: 
+[2018.04.26-19.42.32:167][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.26-19.42.32:167][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.26-19.42.32:167][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.26-19.42.32:884][  0]LogFileCache: Scanning file cache for directory 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/' took 0.01s
+[2018.04.26-19.42.33:780][  0]SourceControl: Source control is disabled
+[2018.04.26-19.42.33:780][  0]Cmd: MAP LOAD FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.26-19.42.33:780][  0]LightingResults: New page: Lighting Build
+[2018.04.26-19.42.33:838][  0]MapCheck: New page: Map Check
+[2018.04.26-19.42.33:838][  0]LightingResults: New page: Lighting Build
+[2018.04.26-19.42.34:382][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.26-19.42.34:391][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.26-19.42.34:406][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.26-19.42.34:472][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.181ms to complete.
+[2018.04.26-19.42.34:472][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.692
+[2018.04.26-19.42.34:711][  0]LogCollectionManager: Loaded 0 collections in 0.002853 seconds
+[2018.04.26-19.42.34:824][  0]LogFileCache: Scanning file cache for directory 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/Collections/' took 0.01s
+[2018.04.26-19.42.34:824][  0]LogFileCache: Scanning file cache for directory 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/Developers/User/Collections/' took 0.01s
+[2018.04.26-19.42.34:824][  0]LogFileCache: Scanning file cache for directory 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/Collections/' took 0.01s
+[2018.04.26-19.42.34:824][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.26-19.42.34:835][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2364 classes and 521 folders.
+[2018.04.26-19.42.34:923][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.26-19.42.34:965][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.26-19.42.36:218][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.26-19.42.36:247][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.26-19.42.36:254][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.26-19.42.36:258][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.26-19.42.36:382][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DetourCrowdAI
+[2018.04.26-19.42.36:382][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.26-19.42.36:382][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.04.26-19.42.36:382][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.04.26-19.42.36:382][  0]LogTemp: BranchPath = 96XJ1R1/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = 96XJ1R1/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.04.26-19.42.36:382][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\User\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.26-19.42.36:383][  0]LogRenderer: Reallocating scene render targets to support 1060x580 Format 9 NumSamples 1 (Frame:1).
+[2018.04.26-19.42.36:556][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.26-19.42.36:556][  0]LogLoad: (Engine Initialization) Total time: 25.30 seconds
+[2018.04.26-19.42.36:556][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.26-19.42.36:556][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.26-19.42.36:596][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.04.26-19.42.36:642][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.26-19.42.36:673][  1]LogAssetRegistry: Asset discovery search completed in 16.7781 seconds
+[2018.04.26-19.42.36:675][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.26-19.42.36:675][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.04.26-19.42.37:597][ 64]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.26-19.43.50:304][663]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-19.43.50:334][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.43.50:334][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-19.43.50:334][663]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2018, 11:43:50 AM)
+[2018.04.26-19.43.50:334][663]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.26-19.43.50:349][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014343s)
+[2018.04.26-19.43.50:349][663]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.26-19.43.50:350][663]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.04.26-19.43.50:350][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015361s)
+[2018.04.26-19.43.50:362][663]LogInit: XAudio2 using 'E480i-C2 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.26-19.43.50:370][663]LogInit: FAudioDevice initialized.
+[2018.04.26-19.43.50:412][663]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.26-19.43.50:412][663]LogLoad: Game class is 'GameModeBase'
+[2018.04.26-19.43.50:415][663]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.26-15.43.50
+[2018.04.26-19.43.50:415][663]LogWorld: Bringing up level for play took: 0.001469
+[2018.04.26-19.43.50:472][663]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.26-19.43.50:790][663]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.366
+[2018.04.26-19.43.50:791][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.44.04:131][ 28]Cmd: LevelEditor.ToggleImmersive
+[2018.04.26-19.44.04:298][ 29]LogRenderer: Reallocating scene render targets to support 1580x860 Format 9 NumSamples 1 (Frame:367).
+[2018.04.26-19.44.04:371][ 30]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 9 NumSamples 1 (Frame:369).
+[2018.04.26-19.44.49:878][118]Cmd: LevelEditor.ToggleImmersive
+[2018.04.26-19.44.50:354][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.44.50:416][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.45.11:262][609]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.26-19.45.11:641][609]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.26-19.45.12:451][609]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.26-19.45.12:539][609]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.26-19.45.16:309][815]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.26-19.53.36:840][923]LogSavePackage: Save=154.18ms
+[2018.04.26-19.53.36:840][923]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/ThirdPersonExampleMap_Auto1027E20B24D41ADF462081483BE57D9A1.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.04.26-19.53.36:841][923]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.04.26-19.53.36:845][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.186
+[2018.04.26-19.53.36:845][923]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2018.04.26-19.53.36:847][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_CircleSpawner] ([1] browsable assets)...
+[2018.04.26-19.53.36:847][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_CircleSpawner]
+[2018.04.26-19.53.36:927][923]LogSavePackage: Save=73.10ms
+[2018.04.26-19.53.36:928][923]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_CircleSpawner_Auto1E9247C6D49FF81E4CC691BAA4D5633D8.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_CircleSpawner_Auto1.uasset'
+[2018.04.26-19.53.36:929][923]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_CircleSpawner_Auto1.uasset
+[2018.04.26-19.53.36:929][923]LogFileHelpers: Auto-saving content packages took 0.082
+[2018.04.26-19.57.01:293][830]BlueprintLog: New page: Compile BP_CircleSpawner
+[2018.04.26-19.57.01:755][830]LogSavePackage: Save=80.44ms
+[2018.04.26-19.57.01:755][830]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_CircleSpawner4D1FAD8845B80E136EEB069DC8FF4F17.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_CircleSpawner.uasset'
+[2018.04.26-19.57.01:759][830]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_CircleSpawner.uasset
+[2018.04.26-19.57.05:472][269]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-19.57.05:502][269]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.57.05:502][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-19.57.05:502][269]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2018, 11:57:05 AM)
+[2018.04.26-19.57.05:502][269]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.26-19.57.05:517][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014595s)
+[2018.04.26-19.57.05:518][269]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.26-19.57.05:518][269]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.04.26-19.57.05:518][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015753s)
+[2018.04.26-19.57.05:538][269]LogInit: XAudio2 using 'E480i-C2 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.26-19.57.05:546][269]LogInit: FAudioDevice initialized.
+[2018.04.26-19.57.05:576][269]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.26-19.57.05:576][269]LogLoad: Game class is 'GameModeBase'
+[2018.04.26-19.57.05:578][269]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.26-15.57.05
+[2018.04.26-19.57.05:578][269]LogWorld: Bringing up level for play took: 0.001475
+[2018.04.26-19.57.05:900][269]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.743
+[2018.04.26-19.57.05:900][269]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.57.36:282][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.57.36:354][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-19.58.23:257][603]BlueprintLog: New page: Compile BP_CircleSpawner
+[2018.04.26-19.58.23:714][603]LogSavePackage: Save=80.57ms
+[2018.04.26-19.58.23:714][603]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_CircleSpawner4E31295A45B0F0844229FF9B7F316506.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_CircleSpawner.uasset'
+[2018.04.26-19.58.23:716][603]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_CircleSpawner.uasset
+[2018.04.26-19.58.35:861][897]BlueprintLog: New page: Compile BP_DetourAI
+[2018.04.26-19.58.36:267][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_DetourAI" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset" SILENT=true
+[2018.04.26-19.58.36:353][897]LogSavePackage: Save=78.35ms
+[2018.04.26-19.58.36:353][897]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_DetourAIE1F5E1E94679F4A069BED7AD0D205C78.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset'
+[2018.04.26-19.58.36:355][897]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset
+[2018.04.26-20.01.17:581][131]LogSavePackage: Save=174.48ms
+[2018.04.26-20.01.17:581][131]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/ThirdPersonExampleMap616A981048CF843B421016BCFDCD0206.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.26-20.01.17:583][131]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.26-20.01.17:610][131]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.302
+[2018.04.26-20.01.17:612][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BT_Simple" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BT_Simple.uasset" SILENT=true
+[2018.04.26-20.01.17:631][131]LogSavePackage: Save=11.94ms
+[2018.04.26-20.01.17:631][131]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BT_Simple9D242AD14933874718A4C88AFF3BFC2A.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BT_Simple.uasset'
+[2018.04.26-20.01.17:632][131]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BT_Simple.uasset
+[2018.04.26-20.01.24:891][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.26-20.01.24:923][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-20.01.24:931][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.26-20.01.24:931][965]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 26, 2018, 12:01:24 PM)
+[2018.04.26-20.01.24:931][965]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.26-20.01.24:955][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023750s)
+[2018.04.26-20.01.24:956][965]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.26-20.01.24:956][965]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.04.26-20.01.24:956][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024901s)
+[2018.04.26-20.01.24:979][965]LogInit: XAudio2 using 'E480i-C2 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.26-20.01.24:987][965]LogInit: FAudioDevice initialized.
+[2018.04.26-20.01.25:019][965]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.26-20.01.25:019][965]LogLoad: Game class is 'GameModeBase'
+[2018.04.26-20.01.25:021][965]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.26-16.01.25
+[2018.04.26-20.01.25:021][965]LogWorld: Bringing up level for play took: 0.001429
+[2018.04.26-20.01.25:351][965]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.195
+[2018.04.26-20.01.25:352][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-20.04.21:814][239]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-20.04.21:888][239]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.26-20.04.36:610][905]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.26-20.04.54:204][974]BlueprintLog: New page: Compile BP_DetourAI
+[2018.04.26-20.04.54:617][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_DetourAI" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset" SILENT=true
+[2018.04.26-20.04.54:705][974]LogSavePackage: Save=78.93ms
+[2018.04.26-20.04.54:705][974]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_DetourAIED66C0FB4B4A57359147B8B5312C69DB.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset'
+[2018.04.26-20.04.54:706][974]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset
+[2018.04.26-20.07.04:280][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BB_Simple" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BB_Simple.uasset" SILENT=true
+[2018.04.26-20.07.04:289][518]LogSavePackage: Save=5.28ms
+[2018.04.26-20.07.04:289][518]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BB_SimpleC7BCFDDF4D0690C6D80168A2257ABA61.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BB_Simple.uasset'
+[2018.04.26-20.07.04:291][518]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BB_Simple.uasset
+[2018.04.26-20.07.35:219][107]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.26-20.07.43:373][ 65]BlueprintLog: New page: Compile BP_AINavController
+[2018.04.26-20.07.43:416][ 65]LogBlueprint: Warning: [Compiler BP_NavAI] Can't parse default value '(X=0.000000,Y=0.000000,Z=0.000000)' for  <None> . Property: TargetLocation2.
+[2018.04.26-20.07.43:426][ 65]LogBlueprint: Warning: [Compiler BP_NavAI] [1532.17] Compile of BP_NavAI successful, but with 1 Warning(s) [in 51 ms] (/Game/ThirdPersonBP/Blueprints/BP_NavAI.BP_NavAI)
+[2018.04.26-20.07.43:824][ 65]LogSavePackage: Save=19.60ms
+[2018.04.26-20.07.43:824][ 65]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_AINavController6A986450416B76728DA2A4A6B05AC8FC.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_AINavController.uasset'
+[2018.04.26-20.07.43:826][ 65]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_AINavController.uasset
+[2018.04.26-20.07.43:843][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_NavAI" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_NavAI.uasset" SILENT=true
+[2018.04.26-20.07.43:929][ 65]LogSavePackage: Save=78.84ms
+[2018.04.26-20.07.43:929][ 65]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_NavAI5C8A10A94425F348444440B27DD61784.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_NavAI.uasset'
+[2018.04.26-20.07.43:931][ 65]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_NavAI.uasset
+[2018.04.26-20.08.27:011][ 90]BlueprintLog: New page: Compile BP_AIDetourController
+[2018.04.26-20.08.27:042][ 90]LogBlueprint: Error: [Compiler BP_AIDetourController] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.26-20.08.27:044][ 90]LogBlueprint: Warning: [Compiler BP_DetourAI] Can't parse default value '(X=0.000000,Y=0.000000,Z=0.000000)' for  <None> . Property: TargetLocation2.
+[2018.04.26-20.08.27:054][ 90]LogBlueprint: Warning: [Compiler BP_DetourAI] [1575.80] Compile of BP_DetourAI successful, but with 1 Warning(s) [in 40 ms] (/Game/ThirdPersonBP/Blueprints/BP_DetourAI.BP_DetourAI)
+[2018.04.26-20.08.27:449][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_DetourAI" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset" SILENT=true
+[2018.04.26-20.08.27:533][ 90]LogSavePackage: Save=80.22ms
+[2018.04.26-20.08.27:533][ 90]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_DetourAIC16119C04894D0D56F7B77BA03652D5E.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset'
+[2018.04.26-20.08.27:535][ 90]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset
+[2018.04.26-20.08.27:537][ 90]LogBlueprint: Warning: [Compiler BP_AIDetourController] [1576.28] Compile of BP_AIDetourController failed. 1 Fatal Issue(s) 0 Warning(s) [in 526 ms] (/Game/ThirdPersonBP/Blueprints/BP_AIDetourController.BP_AIDetourController)
+[2018.04.26-20.08.29:670][339]BlueprintLog: New page: Compile BP_AIDetourController
+[2018.04.26-20.08.29:967][339]LogSavePackage: Save=20.81ms
+[2018.04.26-20.08.29:967][339]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_AIDetourController0B1885074F731DCBCF4F2EA43E797D10.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_AIDetourController.uasset'
+[2018.04.26-20.08.29:969][339]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_AIDetourController.uasset
+[2018.04.26-20.08.31:471][516]BlueprintLog: New page: Compile BP_NavAI
+[2018.04.26-20.08.31:506][516]LogBlueprint: Error: [Compiler BP_NavAI] This blueprint (self) is not a BP_AINavController_C, therefore ' Target ' must have a connection.
+[2018.04.26-20.08.31:510][516]LogBlueprint: Warning: [Compiler BP_NavAI] Can't parse default value '(X=0.000000,Y=0.000000,Z=0.000000)' for  Target Location 2 . Property: TargetLocation2.
+[2018.04.26-20.08.31:884][516]LogBlueprint: Warning: [Compiler BP_NavAI] [1580.63] Compile of BP_NavAI failed. 1 Fatal Issue(s) 1 Warning(s) [in 412 ms] (/Game/ThirdPersonBP/Blueprints/BP_NavAI.BP_NavAI)
+[2018.04.26-20.08.53:903][ 83]BlueprintLog: New page: Compile BP_DetourAI
+[2018.04.26-20.08.53:937][ 83]LogBlueprint: Error: [Compiler BP_DetourAI] This blueprint (self) is not a BP_AIDetourController_C, therefore ' Target ' must have a connection.
+[2018.04.26-20.08.53:941][ 83]LogBlueprint: Warning: [Compiler BP_DetourAI] Can't parse default value '(X=0.000000,Y=0.000000,Z=0.000000)' for  Target Location 2 . Property: TargetLocation2.
+[2018.04.26-20.08.54:301][ 83]LogBlueprint: Warning: [Compiler BP_DetourAI] [1603.04] Compile of BP_DetourAI failed. 1 Fatal Issue(s) 1 Warning(s) [in 397 ms] (/Game/ThirdPersonBP/Blueprints/BP_DetourAI.BP_DetourAI)
+[2018.04.26-20.09.00:848][855]BlueprintLog: New page: Compile BP_DetourAI
+[2018.04.26-20.09.01:271][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_DetourAI" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset" SILENT=true
+[2018.04.26-20.09.01:356][855]LogSavePackage: Save=82.53ms
+[2018.04.26-20.09.01:356][855]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_DetourAIA6F549AB41A177AA5509A39B27DB350B.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset'
+[2018.04.26-20.09.01:358][855]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_DetourAI.uasset
+[2018.04.26-20.09.11:783][ 98]BlueprintLog: New page: Compile BP_NavAI
+[2018.04.26-20.09.12:206][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_NavAI" FILE="E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_NavAI.uasset" SILENT=true
+[2018.04.26-20.09.12:293][ 98]LogSavePackage: Save=82.05ms
+[2018.04.26-20.09.12:293][ 98]LogSavePackage: Moving 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Saved/BP_NavAIB6561E57493FB4F39289219005D39071.tmp' to 'E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_NavAI.uasset'
+[2018.04.26-20.09.12:294][ 98]LogSavePackage: Display: Finished SavePackage E:/GAFinal18/GAFinalDetourCrowdAIUE4/DetourCrowdAI/Content/ThirdPersonBP/Blueprints/BP_NavAI.uasset
+[2018.04.26-20.09.15:768][501]LogUObjectBase: Warning: Object is not registered
+[2018.04.26-20.09.19:666][501]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.898 s
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: 
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: Stack: 
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x00000000591F2786 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:200]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000058F9123A UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:298]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000058FAB906 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:425]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x00000000537F33F6 UE4Editor-UnrealEd.dll!FKismetDebugUtilities::GetWatchText() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\unrealed\private\kismet2\kismetdebugutilities.cpp:1029]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x00000000520903AB UE4Editor-BlueprintGraph.dll!UK2Node::GetPinHoverText() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\blueprintgraph\private\k2node.cpp:1568]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000051383EBA UE4Editor-GraphEditor.dll!SGraphPin::GetTooltipText() [d:\build\++ue4+release-4.18+compile\sync\engine\source\editor\grapheditor\private\sgraphpin.cpp:1106]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x00000000512174AC UE4Editor-GraphEditor.dll!TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64>::operator()<>() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:165]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x000000005121ABF9 UE4Editor-GraphEditor.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SGraphPin,FText (__cdecl SGraphPin::*)(void)const __ptr64> >() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\templates\tuple.h:497]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000051348225 UE4Editor-GraphEditor.dll!TBaseSPMethodDelegateInstance<1,SGraphPin,0,FText __cdecl(void)>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:327]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000054A47397 UE4Editor-Slate.dll!TBaseDelegate<FText>::Execute() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000054A4CE61 UE4Editor-Slate.dll!TAttribute<FText>::Get() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\core\public\misc\attribute.h:137]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000054C89913 UE4Editor-Slate.dll!SToolTip::IsEmpty() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\widgets\stooltip.cpp:87]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000054AA3484 UE4Editor-Slate.dll!FSlateApplication::UpdateToolTip() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:3556]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000054A7B68C UE4Editor-Slate.dll!FSlateApplication::ProcessMouseMoveEvent() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5949]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x0000000054A6D6B7 UE4Editor-Slate.dll!FSlateApplication::OnMouseMove() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5899]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x000000007C01E39E UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1763]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x000000007C011A48 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2171]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x000000007C0203EC UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:888]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x000000007C00D5A9 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:725]
+[2018.04.26-20.09.19:666][501]LogOutputDevice: Error: [Callstack] 0x00000000A3D7B85D USER32.dll!UnknownFunction []
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000A3D7B1EF USER32.dll!UnknownFunction []
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x000000007C021516 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000573950C8 UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3220]
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000573A5430 UE4Editor.exe!GuardedMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000573A54AA UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:134]
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000573B2379 UE4Editor.exe!WinMain() [d:\build\++ue4+release-4.18+compile\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:210]
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000573B3D57 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000A5351FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: [Callstack] 0x00000000A561F061 ntdll.dll!UnknownFunction []
+[2018.04.26-20.09.19:667][501]LogOutputDevice: Error: 
+[2018.04.26-20.09.19:675][501]LogStats:                SubmitErrorReport -  0.000 s
